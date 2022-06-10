@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="787c80e6-6169-439c-b13b-c72dc097a557" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/RecordTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ResultEnum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PatternMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/PatternMatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +18,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Record" />
+        <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -80,7 +81,7 @@
       <workItem from="1654468553896" duration="3302000" />
       <workItem from="1654477053064" duration="27000" />
       <workItem from="1654860992401" duration="544000" />
-      <workItem from="1654862484243" duration="938000" />
+      <workItem from="1654862484243" duration="2349000" />
     </task>
     <servers />
   </component>
